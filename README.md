@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rmdcom
-- 👀 I’m interested in programming
+- 👀 I’m passionate about programming
 - 🌱 I’m currently learning python UI
 - 💞️ I’m looking to collaborate on open source projects DIY
 - 📫 How to reach me rmdcom@outlook.com
